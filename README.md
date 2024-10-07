@@ -5,3 +5,6 @@ This repository holds the Grafana dashboards that I have created. They are all a
 ## List of dashboards
 1. [Cert-manager-Kubernetes](./dashboards/cert-manager-kubernetes/Cert-manager-Kubernetes.json)
 Dashboard id: 20842
+
+2. [Caddy-web-server](./dashboards/caddy-web-server/Caddy-web-server.json)
+Dashboard id: 22038
